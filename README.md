@@ -3,5 +3,5 @@ One of my first projects created in the Creator IT academy on 01.06.2021 on the 
 
 ###### open: https://victor-kindrat.github.io/lemon.inc/
 
-### review: 
+### preview: 
 ![prev image](https://files.fm/thumb_show.php?i=3t55cx4eb "preview")
